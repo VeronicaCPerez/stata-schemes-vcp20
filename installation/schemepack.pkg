@@ -1,0 +1,18 @@
+v 1
+d {bf:SCHEMESTATAVCP20}: ready-to-use Stata graph schemes. 
+d
+d
+d This package includes personalzied Stata schemes.
+d
+d Requires: Stata version 15 or higher. The schemes have not been tested with earlier versions.
+d
+d KW: Stata
+d KW: graphs
+d KW: schemes
+d
+d License: MIT
+d
+d Author: Veronica Perez
+d E-mail: veronicacperezp@gmail.com
+d
+f scheme-gta. scheme
