@@ -1,4 +1,4 @@
-v 1
+v 1.1
 d SCHEMESTATAVCP20: A collection of personalized Stata graph schemes.
 d
 d Veronica Perez
