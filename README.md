@@ -8,5 +8,5 @@ Personalized stata schemes for different projects
 Install from github:
 
 ```
-net install schemepack, from("https://raw.githubusercontent.com/VeronicaCPerez/stata-schemes-vcp20/main/installation/") replace
+net install schemestatavcp20, from("https://raw.githubusercontent.com/VeronicaCPerez/stata-schemes-vcp20/main/installation/") replace
 ```
