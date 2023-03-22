@@ -2,3 +2,11 @@
 
 # Stata-Schemes-vcp20
 Personalized stata schemes for different projects
+
+# Installation
+
+Install from github:
+
+```
+net install schemepack, from("https://raw.githubusercontent.com/VeronicaCPerez/stata-schemes-vcp20/main/installation/") replace
+```
