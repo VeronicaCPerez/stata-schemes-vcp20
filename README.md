@@ -10,3 +10,9 @@ Install from github:
 ```
 net install schemestatavcp20, from("https://raw.githubusercontent.com/VeronicaCPerez/stata-schemes-vcp20/main/installation/") replace
 ```
+
+# Samples
+
+## GTA Scheme
+
+<img src="./figures/sample gta graph.png" height="200"><img src="./figures/sample gta graph.png" height="200">
