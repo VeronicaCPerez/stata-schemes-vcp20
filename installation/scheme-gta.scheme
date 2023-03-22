@@ -392,11 +392,11 @@ yesno draw_major_grid        no
 yesno draw_minor_grid        no
 yesno draw_majornl_grid      no
 yesno draw_minornl_grid      no
-yesno draw_major_hgrid       yes
+yesno draw_major_hgrid       no
 yesno draw_minor_hgrid       no
 yesno draw_majornl_hgrid     no
 yesno draw_minornl_hgrid     no
-yesno draw_major_vgrid       yes
+yesno draw_major_vgrid       no
 yesno draw_minor_vgrid       no
 yesno draw_majornl_vgrid     no
 yesno draw_minornl_vgrid     no
