@@ -218,7 +218,7 @@ color tick_label    "0 0 0"
 color plabel              "0 0 0"
 color label      "0 0 0"
 color p1      "129 45 70"
-color p2       "144 161 195"
+color p2       "0, 167, 225"
 color p3       "144 167 123"
 color p4       "58 80 107"
 color p5       "117 186 185"
@@ -234,7 +234,7 @@ color p14      color14
 color p15      color15
 * Default for lines (matching the symbols)
 color p1line     "129 45 70"
-color p2line     "144 161 195"
+color p2line     "0, 167, 225"
 color p3line     "144 167 123"
 color p4line     "58 80 107"
 color p5line      "117 186 185"
@@ -249,7 +249,7 @@ color p13line     color13
 color p14line     color14
 color p15line     color15
 color p1lineplot    "129 45 70"
-color p2lineplot    "144 161 195"
+color p2lineplot    "0, 167, 225"
 color p3lineplot    "144 167 123"
 color p4lineplot    "58 80 107"
 color p5lineplot     "117 186 185"
@@ -265,7 +265,7 @@ color p14lineplot    color14
 color p15lineplot    color15
 color pmarkline     "0 0 0"
 * color p1markline    "129 45 70"
-* color p2markline    "144 161 195"
+* color p2markline    "0, 167, 225"
 * color p3markline    "144 167 123"
 * color p4markline    "58 80 107"
 * color p5markline     "117 186 185"
@@ -282,7 +282,7 @@ color pmarkline     "0 0 0"
 * Bar charts
 color pbarline    white
 color p1bar      "129 45 70"
-color p2bar      "144 161 195"
+color p2bar      "0, 167, 225"
 color p3bar      "144 167 123"
 color p4bar      "58 80 107"
 color p5bar      "117 186 185"
@@ -302,7 +302,7 @@ color parealine    gs13
 linewidth parealine   thin
 * Area plots
 color p1area     "129 45 70"
-color p2area     "144 161 195"
+color p2area     "0, 167, 225"
 color p3area     "144 167 123"
 color p4area     "58 80 107"
 color p5area     "117 186 185"
@@ -317,7 +317,7 @@ color p13area    color13
 color p14area    color14
 color p15area    color15
 color p1arealine    "129 45 70"
-color p2arealine    "144 161 195"
+color p2arealine    "0, 167, 225"
 color p3arealine    "144 167 123"
 color p4arealine    "58 80 107"
 color p5arealine    "117 186 185"
@@ -336,7 +336,7 @@ linewidth pie               medium
 color ppieline     "255 255 255"
 color pielabel     "255 255 255"
 color p1pie      "129 45 70"
-color p2pie      "144 161 195"
+color p2pie      "0, 167, 225"
 color p3pie      "144 167 123"
 color p4pie      "58 80 107"
 color p5pie      "117 186 185"
