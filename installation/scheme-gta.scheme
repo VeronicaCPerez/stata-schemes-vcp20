@@ -264,21 +264,21 @@ color p13lineplot   color13
 color p14lineplot    color14
 color p15lineplot    color15
 color pmarkline     "0 0 0"
-* color p1markline    "129 45 70"
-* color p2markline    "63 167 214"
-* color p3markline    "153 110 150"
-* color p4markline    "80 175 131"
-* color p5markline     "200 70 92"
-* color p6markline    "82 163 161"
-* color p7markline     "225 67 55"
-* color p8markline     "242 164 74"
-* color p9markline     "84 33 106"
-* color p10markline    "60 103 71"
-* color p11markline    "59 90 125"
-* color p12markline    "227 133 133"
-* color p13markline   color13
-* color p14markline   color14
-* color p15markline   color15
+color p1markline    "129 45 70"
+color p2markline    "63 167 214"
+color p3markline    "153 110 150"
+color p4markline    "80 175 131"
+color p5markline     "200 70 92"
+color p6markline    "82 163 161"
+color p7markline     "225 67 55"
+color p8markline     "242 164 74"
+color p9markline     "84 33 106"
+color p10markline    "60 103 71"
+color p11markline    "59 90 125"
+color p12markline    "227 133 133"
+color p13markline   color13
+color p14markline   color14
+color p15markline   color15
 * Bar charts
 color pbarline    white
 color p1bar      "129 45 70"
