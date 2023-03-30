@@ -25,9 +25,9 @@ gsize body            medsmall
 gsize small_body      1.8
 gsize axis_title      small
 gsize matrix_label    large
-gsize label           small
-gsize plabel          vsmall
-gsize small_label     small
+gsize label           medsmall
+gsize plabel          medsmall
+gsize small_label     medsmall
 gsize matrix_marklbl  small
 gsize key_label       vsmall
 gsize note            vsmall
