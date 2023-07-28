@@ -28,7 +28,7 @@ gsize matrix_label    large
 gsize label           medium
 gsize plabel          medium
 gsize small_label     medium
-gsize matrix_marklbl  small
+gsize matrix_marklbl  medium
 gsize key_label       medium
 gsize note            small
 gsize star            medium
