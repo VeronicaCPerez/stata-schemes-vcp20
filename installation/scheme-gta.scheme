@@ -18,10 +18,10 @@ graphsize             5
 graphsize x           6
 graphsize y           4
 // Sizes
-gsize                 medsmall
+gsize                 medium
 gsize gap             tiny
-gsize text            medsmall
-gsize body            medsmall
+gsize text            medium
+gsize body            medium
 gsize small_body      1.8
 gsize axis_title      medium
 gsize matrix_label    large
@@ -29,10 +29,10 @@ gsize label           medium
 gsize plabel          medium
 gsize small_label     medium
 gsize matrix_marklbl  small
-gsize key_label       medsmall
-gsize note            vsmall
-gsize star            medsmall
-gsize text_option     medsmall
+gsize key_label       medium
+gsize note            small
+gsize star            medium
+gsize text_option     medium
 gsize dot_rectangle   third_tiny
 gsize axis_space      0.5
 gsize axis_title_gap  0.5
@@ -41,9 +41,9 @@ gsize minortick       half_tiny
 gsize tickgap         half_tiny
 gsize notickgap       tiny
 gsize tick_label      small
-gsize tick_biglabel   medsmall
+gsize tick_biglabel   medium
 gsize minortick_label vsmall
-gsize filled_text     medsmall
+gsize filled_text     medium
 gsize reverse_big     large
 gsize alternate_gap   zero
 gsize title_gap       medium
