@@ -40,7 +40,7 @@ gsize tick            tiny
 gsize minortick       half_tiny
 gsize tickgap         half_tiny
 gsize notickgap       tiny
-gsize tick_label      small
+gsize tick_label      medsmall
 gsize tick_biglabel   medium
 gsize minortick_label vsmall
 gsize filled_text     medium
