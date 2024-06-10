@@ -20,18 +20,18 @@ graphsize y           4
 // Sizes
 gsize                 medium
 gsize gap             tiny
-gsize text            small
-gsize body            small
+gsize text            vsmall
+gsize body            vsmall
 gsize small_body      1.8
-gsize axis_title      small
-gsize matrix_label    small
-gsize label           small
-gsize plabel          small
+gsize axis_title      vsmall
+gsize matrix_label    vsmall
+gsize label           vsmall
+gsize plabel          vsmall
 gsize blabel		  vsmall
-gsize small_label     small
+gsize small_label     vsmall
 gsize matrix_marklbl  medium
-gsize key_label       small
-gsize note            small
+gsize key_label       vsmall
+gsize note            vsmall
 gsize star            medium
 gsize text_option     medium
 gsize dot_rectangle   third_tiny
@@ -41,10 +41,10 @@ gsize tick            tiny
 gsize minortick       half_tiny
 gsize tickgap         half_tiny
 gsize notickgap       tiny
-gsize tick_label      small
-gsize tick_biglabel   small
-gsize minortick_label medsmall
-gsize filled_text     medium
+gsize tick_label      vsmall
+gsize tick_biglabel   vsmall
+gsize minortick_label vsmall
+gsize filled_text     vsmall
 gsize reverse_big     large
 gsize alternate_gap   zero
 gsize title_gap       medium
