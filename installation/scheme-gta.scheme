@@ -27,7 +27,7 @@ gsize axis_title      small
 gsize matrix_label    small
 gsize label           small
 gsize plabel          small
-gsize blabel		  small
+gsize blabel		  vsmall
 gsize small_label     small
 gsize matrix_marklbl  medium
 gsize key_label       small
@@ -391,9 +391,9 @@ color histback         gs10
 * Gridlines
 yesno draw_major_grid        yes
 yesno draw_minor_grid        no
-yesno draw_majornl_grid      no
+yesno draw_majornl_grid      yes
 yesno draw_minornl_grid      no
-yesno draw_major_hgrid       no
+yesno draw_major_hgrid       yes
 yesno draw_minor_hgrid       no
 yesno draw_majornl_hgrid     no
 yesno draw_minornl_hgrid     no
