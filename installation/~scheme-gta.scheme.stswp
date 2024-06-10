@@ -84,7 +84,7 @@ linewidth minortick         vthin
 linewidth background        thin
 linewidth foreground        thin
 linewidth major_grid        0.5
-linewidth minor_grid        0.5
+linewidth minor_grid        0.04
 linewidth refmarker         vthin
 linewidth matrixmark        vthin
 linewidth dots              thin
