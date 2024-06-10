@@ -20,13 +20,13 @@ graphsize y           4
 // Sizes
 gsize                 medium
 gsize gap             tiny
-gsize text            medium
-gsize body            medium
+gsize text            small
+gsize body            small
 gsize small_body      1.8
-gsize axis_title      medium
+gsize axis_title      small
 gsize matrix_label    large
-gsize label           medium
-gsize plabel          medium
+gsize label           small
+gsize plabel          small
 gsize small_label     medium
 gsize matrix_marklbl  medium
 gsize key_label       medium
