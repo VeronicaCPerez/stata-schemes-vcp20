@@ -24,12 +24,13 @@ gsize text            small
 gsize body            small
 gsize small_body      1.8
 gsize axis_title      small
-gsize matrix_label    large
+gsize matrix_label    small
 gsize label           small
 gsize plabel          small
-gsize small_label     medium
+gsize blabel		  small
+gsize small_label     small
 gsize matrix_marklbl  medium
-gsize key_label       medium
+gsize key_label       small
 gsize note            small
 gsize star            medium
 gsize text_option     medium
@@ -199,7 +200,7 @@ linepattern minor_grid   dot
 * Textboxes
 color box              "255 255 255"
 color textbox          "255 255 255"
-color mat_label_box    "0 0 0"
+color mat_label_box    "34 34 34"
 yesno textbox               no
 linestyle textbox   none
 linewidth textbox   vvthin
@@ -207,16 +208,16 @@ color background          "255 255 255"
 color plotregion          "255 255 255"
 color plotregion_line   "255 255 255"
 color graphregion    "255 255 255"
-color legend     "255 255 255"
-color heading     "0 0 0"
-color subheading       "0 0 0"
-color body      "0 0 0"
-color small_body    "0 0 0"
-color key_label     "0 0 0"
-color axis_title    "0 0 0"
-color tick_label    "0 0 0"
-color plabel              "0 0 0"
-color label      "0 0 0"
+color legend        "255 255 255"
+color heading       "34 34 34"
+color subheading    "34 34 34"
+color body      	"34 34 34"
+color small_body    "34 34 34"
+color key_label     "34 34 34"
+color axis_title    "34 34 34"
+color tick_label    "34 34 34"
+color plabel              "34 34 34"
+color label      "34 34 34"
 color p1      "1 31 75"
 color p2       "66 146 198"
 color p3       "8 69 148"
@@ -263,7 +264,7 @@ color p12lineplot    "227 133 133"
 color p13lineplot   color13
 color p14lineplot    color14
 color p15lineplot    color15
-color pmarkline     "0 0 0"
+color pmarkline     "34 34 34"
 color p1markline    "1 31 75"
 color p2markline    "66 146 198"
 color p3markline    "8 69 148"
@@ -351,11 +352,11 @@ color p13pie    color13
 color p14pie    color14
 color p15pie    color15
 * Box lines
-color   pboxline    "0 0 0"
+color   pboxline    "34 34 34"
 linewidth  pbox       thin
 symbol   pbox
 linewidth  pboxmark   vthin
-color       pboxmarkline   "0 0 0"
+color       pboxmarkline   "34 34 34"
 * Intensity
 intensity bar     95
 intensity histogram         95
@@ -376,19 +377,19 @@ color histogram     "1 31 75"
 color histogram_line  black
 * color xyline     white
 * color tickline   white
-color tick             "0 0 0"
-color minortick        "0 0 0"
+color tick             "34 34 34"
+color minortick        "34 34 34"
 color grid                   "180 180 180"
 color major_grid             "180 180 180"
 color minor_grid             "180 180 180"
-color axisline         "0 0 0"
+color axisline         "34 34 34"
 color matrix           gs6
 color matrixmarkline   gs6
 color refmarker        gs11
 color refmarkline      black
 color histback         gs10
 * Gridlines
-yesno draw_major_grid        no
+yesno draw_major_grid        yes
 yesno draw_minor_grid        no
 yesno draw_majornl_grid      no
 yesno draw_minornl_grid      no
