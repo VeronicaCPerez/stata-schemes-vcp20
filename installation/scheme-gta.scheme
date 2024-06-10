@@ -37,7 +37,7 @@ gsize text_option     medium
 gsize dot_rectangle   third_tiny
 gsize axis_space      0.5
 gsize axis_title_gap  0.5
-gsize tick            tiny
+gsize tick            vtiny
 gsize minortick       half_tiny
 gsize tickgap         half_tiny
 gsize notickgap       tiny
@@ -83,8 +83,8 @@ linewidth tick              vthin
 linewidth minortick         vthin
 linewidth background        thin
 linewidth foreground        thin
-linewidth major_grid        0.1
-linewidth minor_grid        0.1
+linewidth major_grid        0.15
+linewidth minor_grid        0.15
 linewidth refmarker         vthin
 linewidth matrixmark        vthin
 linewidth dots              thin
