@@ -24,12 +24,12 @@ gsize text            small
 gsize body            small
 gsize small_body      1.8
 gsize axis_title      small
-gsize matrix_label    large
+gsize matrix_label    small
 gsize label           small
 gsize plabel          small
-gsize small_label     medium
+gsize small_label     small
 gsize matrix_marklbl  medium
-gsize key_label       medium
+gsize key_label       small
 gsize note            small
 gsize star            medium
 gsize text_option     medium
@@ -40,8 +40,8 @@ gsize tick            tiny
 gsize minortick       half_tiny
 gsize tickgap         half_tiny
 gsize notickgap       tiny
-gsize tick_label      medium
-gsize tick_biglabel   medium
+gsize tick_label      small
+gsize tick_biglabel   small
 gsize minortick_label medsmall
 gsize filled_text     medium
 gsize reverse_big     large
