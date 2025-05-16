@@ -13,6 +13,6 @@ net install schemestatavcp20, from("https://raw.githubusercontent.com/VeronicaCP
 
 # Samples
 
-## GTA Scheme
+## GIP Scheme
 
 <img src="./figures/sample gta graph.png" height="400">
